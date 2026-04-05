@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ankit&textBg=false&reversal=false&fontAlign=50&animation=fadeIn
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on Project Auranix Assistant
