@@ -1,4 +1,7 @@
-https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ankit&textBg=false&reversal=false&fontAlign=50&animation=fadeIn
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Ankit&textBg=false&fontSize=75&section=header&animation=fadeIn" />
+</p>
+
 
 ## Hi there 👋
 
